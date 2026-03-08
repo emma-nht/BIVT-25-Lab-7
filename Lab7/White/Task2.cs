@@ -2,7 +2,7 @@
 {
     public class Task2
     {
-
+        public struct Participant{
         private string _name;
         private string _surname;
         private double _firstjump;
@@ -62,6 +62,8 @@
             }
         }
         public void Print() { }
+        }
     }
 }
+
     
